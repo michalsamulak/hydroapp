@@ -1,8 +1,8 @@
 # ![cover](/public/og.png)
 
-# hYDROAPP
+# HYDROAPP
 
-hYDROAPP is PVA counting daily water consumption.
+HYDROAPP is PVA counting daily water consumption.
 
 ## Tool & technologies I've used
 
@@ -11,3 +11,5 @@ hYDROAPP is PVA counting daily water consumption.
 - JS local storage
 - Webpack template
 ...
+
+## CSS animation inspired by @Mark_Bowley
